@@ -21,7 +21,7 @@ Sites to search,Reliability,Oped?,Pay?,Notes,timestamp,score,Label,name,Addition
 *.cbc.ca/*,State Media Monitor,N,N,,,,,,,,
 *.cbsnews.com/*,Perennial,N,N,,0x00061a149afa17c3,1,,_include_,,original_url,CBSnews.com
 *.channel4.com/*,State Media Monitor,N,N,,,,,,,,
-*checkyourfact.com/*,Perennial,N,N,,,,,,,,
+*.checkyourfact.com/*,Perennial,N,N,,,,,,,,
 *.cjr.org/*,INN Affiliate,Y / Y,N,,,,,,,,
 *.climatefeedback.org/*,Perennial,N,N,,0x00061a14de3f1bfb,1,,_include_,,original_url,climatefeedback.org
 *.cnn.com/*,Perennial,Y / Y,N,,0x00061a149afa1803,1,,_include_,,original_url,CNN.com
