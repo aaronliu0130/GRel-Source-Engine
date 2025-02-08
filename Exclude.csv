@@ -33,6 +33,7 @@ Filters
 *.nationalgeographic.com/*opinion
 *.nbcnews.com/*blog*
 *.nbcnews.com/think*
+*.newsnationnow.com/on-balance-with-leland-vittert*
 *.newyorker.com/news/daily-comment*
 *.npr.org/*opinion*
 *.nytimes.com/*/opinion*
@@ -76,6 +77,7 @@ blogs.timesofisrael.com/*
 *.wired.com/*opinion*
 *.wsj.com/*editorial*
 *.wsj.com/*opinion*
+*.newsnationnow.com/space/ufo*
 www.nytimes.com/topic/*
 *.nymag.com/*/tags/*
 *.nymag.com/*/tags/*

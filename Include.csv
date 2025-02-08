@@ -78,6 +78,7 @@ Sites to search,Reliability,Oped?,Pay?,Notes,timestamp,score,Label,name,Addition
 *.msnbc.com/*,Perennial,Y / Y,N,,0x00061a149afa1590,1,,_include_,,original_url,MSNBC.com
 *.nationalgeographic.com/*,Perennial,Y,Y,,0x00061a1532728128,1,,_include_,,original_url,nationalgeographic.com
 *.nbcnews.com/*,Perennial,Y / Y,N,,0x00061a149afa1895,1,,_include_,,original_url,nbcnews.com
+*.newsnationnow.com/*,Perennial,Y,N,Except for UFO coverage; only one op-ed column,,,,,,,
 *.newrepublic.com/*,Perennial,N,N,,0x00061a15328a2aa5,1,,_include_,,original_url,newrepublic.com
 *.news.err.ee/*,State Media Monitor,?,N,,,,,,,,
 *.news.sky.com/*,Perennial,Y*,N,,0x00061a15343f2351,1,,_include_,,original_url,news.sky.com
