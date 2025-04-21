@@ -25,6 +25,8 @@ Filters
 *.haaretz.com/opinion*
 *.illustrateddailynews.com/opinion*
 *.indianexpress.com/*opinion*
+*.jpost.com/opinion/*
+*.jpost.com/podcast/*
 *.kqed.org/perspectives/*
 *.latimes.com/opinion*
 *.mg.co.za/thought-leader*

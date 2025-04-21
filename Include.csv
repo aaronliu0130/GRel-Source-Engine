@@ -65,6 +65,7 @@ Sites to search,Reliability,Oped?,Pay?,Notes,timestamp,score,Label,name,Addition
 *.iranicaonline.org/*,Perennial,N,N,,0x00061a14f394b947,1,,_include_,,original_url,iranicaonline.org
 *.jamanetwork.com/*,Perennial,Y*,Y,,0x00061a1531d790aa,1,,_include_,,original_url,jamanetwork.com
 *.journalismresearch.org/*,,N,N,,,,,,,,
+*.jpost.com/*,Perennial,Y,Y*,,,,,,,,
 *.kbs-america.com/*,State Media Monitor,N,N,,,,,,,,
 *.kirkusreviews.com/*,Perennial,Y*,N,,0x00061a1531fe3ce3,1,,_include_,,original_url,kirkusreviews.com
 *.knightfoundation.org/*,,N,N,,,,,,,,
@@ -117,6 +118,7 @@ Sites to search,Reliability,Oped?,Pay?,Notes,timestamp,score,Label,name,Addition
 *.scientificamerican.com/,Perennial,Y*,Y,,0x00061a1534186f2d,1,,_include_,,original_url,https://*.scientificamerican.com/
 *.scotusblog.com/*,Perennial,Y*,N,,0x00061a15342b0791,1,,_include_,,original_url,scotusblog.com
 *.sfchronicle.com/*,,Y,Y,,,,,,,,
+*.skepticalinquirer.org/*,Perennial,Y,N,,,,,,,,
 *.smh.com.au/*,Perennial,Y*,Y,,0x00061a153481026c,1,,_include_,,original_url,smh.com.au
 *.snopes.com/*,Perennial,N,N,,0x00061a14b27ea83e,1,,_include_,,original_url,Snopes.com
 *.spiegel.de/international/*,Perennial,Y,N,,0x00061a15346cf2e8,1,,_include_,,original_url,spiegel.de
@@ -152,6 +154,7 @@ Sites to search,Reliability,Oped?,Pay?,Notes,timestamp,score,Label,name,Addition
 *.vanityfair.com/*,Perennial,N,Y,,0x00061a1534ab8123,1,,_include_,,original_url,vanityfair.com
 *.variety.com/*,Perennial,Y / Y,N,,0x00061a1534be4d1b,1,,_include_,,original_url,variety.com
 *.venturebeat.com/*,Perennial,N,Y,,0x00061a1534d2b310,1,,_include_,,original_url,venturebeat.com
+*.villagevoice.com/*,Perennial,Y?,N,Alternative newspaper: Magazine-style feature columns,,,,,,,
 *.voanews.com/*,Perennial,N,N,,0x00061a15351103bb,1,,_include_,,original_url,voanews.com
 *.vogue.com/*,Perennial,Y*,Y,,0x00061a1534fc98da,1,,_include_,,original_url,vogue.com
 *.vox.com/*,Perennial,Y / Y,Y,,0x00061a149afa1654,1,,_include_,,original_url,Vox.com
