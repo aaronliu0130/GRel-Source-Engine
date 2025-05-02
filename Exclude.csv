@@ -103,6 +103,9 @@ www.washingtonpost.com/people/*
 thehill.com/people/*
 www.politico.com/tag/*
 www.pbs.org/newshour/tag/*
+*.bloomberg.com/quote/*
+markets.ft.com/*
+*.wsj.com/market-data/quotes/*
 https://www.afp.com/en/search/*
 testing.afp.com/*
 www.afp.com/fr/*
