@@ -136,6 +136,7 @@ Sites to search,Reliability,Oped?,Pay?,Notes,timestamp,score,Label,name,Addition
 *.theguardian.com/*,Perennial,Y / Y,N,,0x00061a149afa1842,1,,_include_,,original_url,theguardian.com
 *.thehill.com/*,Perennial,Y / Y,N,,0x00061a149afa1c26,1,,_include_,,original_url,thehill.com
 *.thehindu.com/*,Perennial,Y,Y,Still able to criticize BJP?,0x00061a14f46f54d8,1,,_include_,,original_url,thehindu.com
+*.theinsneider.com/*,Perennial,N,N,Expert SPS,,,,,,,
 *.theintercept.com/*,Perennial,N,N,,0x00061a149afa14ca,1,,_include_,,original_url,*.theintercept.com
 *.themarysue.com/*,Perennial,Y*,N,,0x00061a15323561bb,1,,_include_,,original_url,*.themarysue.com
 *.thenation.com/*,Perennial,Y*,Y,,0x00061a149afa1614,1,,_include_,,original_url,thenation.com
