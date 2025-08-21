@@ -55,10 +55,12 @@ https://projects.propublica.org/527-explorer/expenditures*
 *.rottentomatoes.com/*type=user*
 *.rottentomatoes.com/*type=verified_audience*
 *.rte.ie/brainstorm*
+*.scmp.com/opinion/*
 *.seattletimes.com/opinion/*
 *.sfchronicle.com/opinion/*
 *.sfgate.com/politics-op-eds/*
 *.spiegel.de/*opinion*
+*.straitstimes.com/opinion/*
 *.swissinfo.ch/eng/opinions/*
 *.theatlantic.com/ideas*
 *.theglobeandmail.com/*opinion*
