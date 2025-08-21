@@ -115,7 +115,8 @@ Sites to search,Reliability,Oped?,Pay?,Notes,timestamp,score,Label,name,Addition
 *.rte.ie/,State Media Monitor,Y / Y,N,,0x00061a1533edc0a0,1,,_include_,,original_url,https://*.rte.ie/
 *.rtvslo.si/radio-si*,State Media Monitor,N,N,,,,,,,,
 *.sbs.com.au/*,State Media Monitor,N,N,,,,,,,,
-*.scientificamerican.com/,Perennial,Y*,Y,,0x00061a1534186f2d,1,,_include_,,original_url,https://*.scientificamerican.com/
+*.scientificamerican.com/*,Perennial,Y*,Y,,0x00061a1534186f2d,1,,_include_,,original_url,https://*.scientificamerican.com/
+*.scmp.com/*,Perennial,Y,Y,Some state interference,,,,,,,
 *.scotusblog.com/*,Perennial,Y*,N,,0x00061a15342b0791,1,,_include_,,original_url,scotusblog.com
 *.sfchronicle.com/*,,Y,Y,,,,,,,,
 *.skepticalinquirer.org/*,Perennial,Y,N,,,,,,,,
@@ -123,6 +124,7 @@ Sites to search,Reliability,Oped?,Pay?,Notes,timestamp,score,Label,name,Addition
 *.snopes.com/*,Perennial,N,N,,0x00061a14b27ea83e,1,,_include_,,original_url,Snopes.com
 *.spiegel.de/international/*,Perennial,Y,N,,0x00061a15346cf2e8,1,,_include_,,original_url,spiegel.de
 *.splcenter.org/*,Perennial,N?,N,,,,,,,,
+*.straitstimes.com/*,Perennial,Y,Y,Some state interference,,,,,,,
 *.swissinfo.ch/eng/*,State Media Monitor,Y / Y,N,,,,,,,,
 *.telegraph.co.uk/*,Perennial,Y*,Y,,0x00061a14de9614d2,1,,_include_,,original_url,telegraph.co.uk
 *.texastribune.org/*,INN,N,N,,,,,,,,
