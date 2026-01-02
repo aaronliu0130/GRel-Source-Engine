@@ -11,6 +11,7 @@ Sites to search,Reliability,Oped?,Pay?,Notes,timestamp,score,Label,name,Addition
 *.atlasobscura.com/articles*,Perennial,Y / Y,N,,0x00061a14dd96bff9,1,,_include_,,original_url,https://*.atlasobscura.com/
 *.avclub.com/*,Perennial,Y*,Y,,0x00061a14ddc1290b,1,,_include_,,original_url,avclub.com
 *.axios.com/*,Perennial,Y*,N,,0x00061a149afa171b,1,,_include_,,original_url,Axios.com
+*.ballotpedia.org/*,Perennial,N,N,,,,,,,,
 *.bbc.com/*,Perennial,N,N,,0x00061a149afa1b12,1,,_include_,,original_url,bbc.com
 *.behindthevoiceactors.com/*,Perennial,Y / Y,N,,0x00061a14dde818f2,1,,_include_,,original_url,https://*.behindthevoiceactors.com
 *.bellingcat.com/*,Perennial,N,N,,0x00061a14ddfd8399,1,,_include_,,original_url,bellingcat.com
@@ -72,6 +73,7 @@ Sites to search,Reliability,Oped?,Pay?,Notes,timestamp,score,Label,name,Addition
 *.knpr.org/*,INN,N,N,,,,,,,,
 *.kqed.org/*,INN,Y / Y,N,,,,,,,,
 *.latimes.com/*,Perennial,Y,Y,,0x00061a1532110518,1,,_include_,,original_url,latimes.com
+*.meduza.io/*,Perennial,N,N,,,,,,,,
 *.metacritic.com/*,Perennial,Y*,N,,0x00061a15324a22e2,1,,_include_,,original_url,*.metacritic.com
 *.mg.co.za/*,Perennial,Y,Y,,0x00061a15322379eb,1,,_include_,,original_url,*.mg.co.za
 *.mondediplo.com/*,Perennial,Y,Y,,0x00061a15325e3744,1,,_include_,,original_url,https://mondediplo.com/
