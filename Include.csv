@@ -4,7 +4,7 @@ Sites to search,Reliability,Oped?,Pay?,Notes,timestamp,score,Label,name,Addition
 *.afp.com/*,Perennial,N,Y,,0x00061a14b25769e1,1,,_include_,,original_url,AFP.com
 *.aljazeera.com/*,Perennial,Y / Y,N,,0x00061a14c4af03f4,1,,_include_,,original_url,Aljazeera.com
 *.americanpressinstitute.org/*,,N,N,,,,,,,,
-*.amnesty.org/*,Perennial,Y*?,N,,0x00061a14c4c64a8e,1,,_include_,,original_url,Amnesty.org
+*.amnesty.org/*,Perennial,Y*?,N,advocacy,0x00061a14c4c64a8e,1,,_include_,,original_url,Amnesty.org
 *.apnews.com/*,Perennial,N,N,,0x00061a149afa16db,1,,_include_,,original_url,APnews.com
 *.arte.tv/en/*,State Media Monitor,N,N,,,,,,,,
 *.arstechnica.com/*,Perennial,N,N,,0x00061a14c4f5ab72,1,,_include_,,original_url,arstechnica.com
@@ -52,12 +52,13 @@ Sites to search,Reliability,Oped?,Pay?,Notes,timestamp,score,Label,name,Addition
 *.gamespot.com/*,Perennial,N,N,,,,,,,,
 *.gamespot.co.uk/*,Perennial,N,N,,,,,,,,
 *.gijn.org/stories/*,INN affiliate,N?,N,,,,,,,,
-*.gizmodo.com/*,Perennial,N,N,Gizmodo bot only has 1 story,0x00061a14f422ef0b,1,,_include_,,original_url,Gizmodo.com
+*.gizmodo.com/*,Perennial,N,N,,0x00061a14f422ef0b,1,,_include_,,original_url,Gizmodo.com
 *.gq.com/*,Perennial,N,N,,0x00061a14f44722e5,1,,_include_,,original_url,gq.com
 *.grubstreet.com/*,Perennial,Y,Y,,,,,,,,
 *.haaretz.com/*,Perennial,Y,Y,,0x00061a14f4588074,1,,_include_,,original_url,haaretz.com
 *.hardcoregaming101.net/*,Perennial,N,N,For articles by Kalata or Szczepaniak,,,,,,,
 *.hollywoodreporter.com/*,Perennial,N,Y,,0x00061a14f4856c4e,1,,_include_,,original_url,hollywoodreporter.com
+*.hopenothate.org.uk/*,Perennial,Y,N,advocacy,,,,,,,
 *.idolator.com/*,Perennial,Y*,N,Last reviewed in 2014…,0x00061a14f49b7b32,1,,_include_,,original_url,*.idolator.com
 *.illustrateddailynews.com/*,Perennial,Y / Y,N,,,,,,,,
 *.indianexpress.com/*,Perennial,Y,Y,Still able to criticize BJP?,0x00061a14f4d356d8,1,,_include_,,original_url,indianexpress.com
@@ -77,7 +78,7 @@ Sites to search,Reliability,Oped?,Pay?,Notes,timestamp,score,Label,name,Addition
 *.metacritic.com/*,Perennial,Y*,N,,0x00061a15324a22e2,1,,_include_,,original_url,*.metacritic.com
 *.mg.co.za/*,Perennial,Y,Y,,0x00061a15322379eb,1,,_include_,,original_url,*.mg.co.za
 *.mondediplo.com/*,Perennial,Y,Y,,0x00061a15325e3744,1,,_include_,,original_url,https://mondediplo.com/
-*.motherjones.com/*,Perennial,N,N,,0x00061a149afa154d,1,,_include_,,original_url,motherjones.com
+*.motherjones.com/*,Perennial,N,N,editorial,0x00061a149afa154d,1,,_include_,,original_url,motherjones.com
 *.msnbc.com/*,Perennial,Y / Y,N,,0x00061a149afa1590,1,,_include_,,original_url,MSNBC.com
 *.nationalgeographic.com/*,Perennial,Y,Y,,0x00061a1532728128,1,,_include_,,original_url,nationalgeographic.com
 *.nbcnews.com/*,Perennial,Y / Y,N,,0x00061a149afa1895,1,,_include_,,original_url,nbcnews.com
@@ -120,12 +121,13 @@ Sites to search,Reliability,Oped?,Pay?,Notes,timestamp,score,Label,name,Addition
 *.scientificamerican.com/*,Perennial,Y*,Y,,0x00061a1534186f2d,1,,_include_,,original_url,https://*.scientificamerican.com/
 *.scmp.com/*,Perennial,Y,Y,Some state interference,,,,,,,
 *.scotusblog.com/*,Perennial,Y*,N,,0x00061a15342b0791,1,,_include_,,original_url,scotusblog.com
+*.searchlightmagazine.com/*,Perennial,Y?,N,advocacy,,,,,,,
 *.sfchronicle.com/*,,Y,Y,,,,,,,,
 *.skepticalinquirer.org/*,Perennial,Y,N,,,,,,,,
 *.smh.com.au/*,Perennial,Y*,Y,,0x00061a153481026c,1,,_include_,,original_url,smh.com.au
 *.snopes.com/*,Perennial,N,N,,0x00061a14b27ea83e,1,,_include_,,original_url,Snopes.com
 *.spiegel.de/international/*,Perennial,Y,N,,0x00061a15346cf2e8,1,,_include_,,original_url,spiegel.de
-*.splcenter.org/*,Perennial,N?,N,,,,,,,,
+*.splcenter.org/*,Perennial,N?,N,advocacy,,,,,,,
 *.straitstimes.com/*,Perennial,Y,Y,Some state interference,,,,,,,
 *.swissinfo.ch/eng/*,State Media Monitor,Y / Y,N,,,,,,,,
 *.telegraph.co.uk/*,Perennial,Y*,Y,,0x00061a14de9614d2,1,,_include_,,original_url,telegraph.co.uk
