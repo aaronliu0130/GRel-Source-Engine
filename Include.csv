@@ -1,7 +1,7 @@
 Sites to search,Reliability,Oped?,Pay?,Notes,timestamp,score,Label,name,AdditionalData,attribute,value
 *.abc.net.au/*,Perennial,Y*,N,,,,,,,,
 *.abcnews.go.com/*,Perennial,N,N,,0x00061a149afa1693,1,,_include_,,original_url,abcnews.go.com
-*.afp.com/*,Perennial,N,Y,,0x00061a14b25769e1,1,,_include_,,original_url,AFP.com
+*.afp.com/en/*,Perennial,N,Y,,0x00061a14b25769e1,1,,_include_,,original_url,AFP.com
 *.aljazeera.com/*,Perennial,Y / Y,N,,0x00061a14c4af03f4,1,,_include_,,original_url,Aljazeera.com
 *.americanpressinstitute.org/*,,N,N,,,,,,,,
 *.amnesty.org/*,Perennial,Y*?,N,advocacy,0x00061a14c4c64a8e,1,,_include_,,original_url,Amnesty.org
