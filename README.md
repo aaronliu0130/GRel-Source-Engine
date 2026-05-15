@@ -33,4 +33,4 @@ These sites were not included because their opinion articles could not be URL-fi
 * INN (Institute for Nonprofit News)
 * GIJN (Global Investigative Journalism Network)
 * W (Whitelisted)
-  * Stellar sources do *not* need to be "Perennial" (adj. 1. frequently returning/discussed) to be added to this list. Feel free to request the addition of a source here through or on enwiki through my user talk page.
+  * Stellar sources do *not* need to be "Perennial" (adj. 1. frequently returning/discussed) to be added to this list. Feel free to request the addition of a source here through opening an issue, or on enwiki through my user talk page.
