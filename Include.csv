@@ -22,8 +22,9 @@ Sites to search,Reliability,Oped?,Pay?,Notes,timestamp,score,Label,name,Addition
 *.cbc.ca/*,State Media Monitor,N,N,,,,,,,,
 *.cbsnews.com/*,Perennial,N,N,,0x00061a149afa17c3,1,,_include_,,original_url,CBSnews.com
 *.channel4.com/*,State Media Monitor,N,N,,,,,,,,
+www.channelnewsasia.com/*,Perennial,N,N,,,,,,,,
 *.checkyourfact.com/*,Perennial,N,N,,,,,,,,
-*.cjr.org/*,INN Affiliate,Y / Y,N,,,,,,,,
+*.cjr.org/*,INN,Y / Y,N,,,,,,,,
 *.climatefeedback.org/*,Perennial,N,N,,0x00061a14de3f1bfb,1,,_include_,,original_url,climatefeedback.org
 *.cnn.com/*,Perennial,Y / Y,N,,0x00061a149afa1803,1,,_include_,,original_url,CNN.com
 *.codastory.com/*,Perennial,N,N,,0x00061a14de5294c4,1,,_include_,,original_url,codastory.com
@@ -52,7 +53,7 @@ digitaltrends.com/*,Perennial,N,N,,,,,,,,
 *.gameinformer.com/*,Perennial,N?,N,,0x00061a14f3fb7b35,1,,_include_,,original_url,*.gameinformer.com
 *.gamespot.com/*,Perennial,N,N,,,,,,,,
 *.gamespot.co.uk/*,Perennial,N,N,,,,,,,,
-*.gijn.org/stories/*,INN affiliate,N?,N,,,,,,,,
+*.gijn.org/stories/*,INN,N?,N,,,,,,,,
 *.gizmodo.com/*,Perennial,N,N,,0x00061a14f422ef0b,1,,_include_,,original_url,Gizmodo.com
 *.gq.com/*,Perennial,N,N,,0x00061a14f44722e5,1,,_include_,,original_url,gq.com
 *.grubstreet.com/*,Perennial,Y,Y,,,,,,,,
@@ -113,6 +114,7 @@ digitaltrends.com/*,Perennial,N,N,,,,,,,,
 *.reason.com/*,Perennial,Y* / Y*,N,,0x00061a149afa1ca4,1,,_include_,,original_url,reason.com
 *.religionnews.com/*,Perennial,Y*,N,,0x00061a1533d7feae,1,,_include_,,original_url,https://religionnews.com
 *.reuters.com/*,Perennial,Y*,N,,0x00061a149afa1be4,1,,_include_,,original_url,reuters.com
+reviewofjournalism.ca/*,,Y?,N,Award-winning student publication,,,,,,,
 *.rfa.org/*,State Media Monitor,Y / Y,N,,0x00061a153393ab08,1,,_include_,,original_url,rfa.org
 *.rnz.co.nz/*,State Media Monitor,Y / Y,N,,,,,,,,
 *.rottentomatoes.com/*,Perennial,Y / Y,N,,0x00061a186c0eec97,1,,_include_,,original_url,*.rottentomatoes.com
@@ -176,7 +178,7 @@ digitaltrends.com/*,Perennial,N,N,,,,,,,,
 *.wsj.com/*,Perennial,Y*,Y,,0x00061a149afa1c64,1,,_include_,,original_url,WSJ.com
 *.wyborcza.pl/*,Perennial,Y*,Y,Seems sensationalist,0x00061a14f40e9b0e,1,,_include_,,original_url,wyborcza.pl
 *.yle.fi/news/*,State Media Monitor,N,N,,,,,,,,
-*.nikkei.com/*,RSN,,,,,,,,,,
+*.nikkei.com/*,W,,,,,,,,,,
 https://probe.ph/*,IFCN,N,N,,,,,,,,
 https://www.dubawa.org/*,IFCN,N,N,,,,,,,,
 https://www.lrt.lt/en/*,IFCN,N,N,,,,,,,,
